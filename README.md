@@ -1,6 +1,6 @@
 ## Assalamualaikum <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-### I am Muhammad Rifki Sumarna
+### I am Muhamad Rifki Sumarna
 - I started learning programming languages ​​when I first entered vocational school. **C++** is the first programming language my teacher taught.
 
 <a href="https://ikiitech.github.io/library">
