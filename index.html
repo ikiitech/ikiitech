@@ -6,16 +6,17 @@
 <title>Statistik</title>
 <link rel="icon" type="image/png" href="favicon.ico"/>
 <style>
+.title {
+  text-decoration-line: underline;
+}
 .button {
   background-color: black;
   border: none;
-  align-items: center;
-  justify-content: center;
   color: white;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
-  display: flex;
+  display: absolute;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
@@ -30,7 +31,7 @@
 <body>
 <br/>
 <br/>
-<h2 align="center">Statistik</h2>
+<h2 class="title" align="center">Statistik</h2>
 <p align="center">
 <button class="button button1" onclick="window.open('/web.html')">Website</button><br/><br/>
 <button class="button button1" onclick="window.open('/blog.html')">Blog</button>
