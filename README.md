@@ -1,7 +1,7 @@
 ## Assalamualaikum <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### I am Muhamad Rifki Sumarna
-- I started learning programming languages ​​when I first entered vocational school.
+keep your health and keep your spirits up
 
 <a href="https://ikiitech.github.io/library">
   <img align="center" alt="Rifki's Web" width="164px" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white" />
