@@ -1,4 +1,4 @@
-## Assalamualaikum <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Assalamualaikum <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>
 
 ### I am Muhamad Rifki Sumarna
 keep your health and keep your spirits up
