@@ -1,6 +1,6 @@
-## Assalamualaikum <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"/>
+## Assalamualaikum👋
 
-### I am Muhamad Rifki Sumarna
+### My name is Muhamad Rifki Sumarna
 keep your health and keep your spirits up
 
 <a href="https://ikiitech.github.io/library">
