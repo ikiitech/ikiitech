@@ -1,0 +1,15 @@
+<!-- Divider-->
+                    <hr class="my-4" />
+                    <!-- Pager-->
+                    <div class="d-flex justify-content-end mb-4"><a class="btn btn-primary text-uppercase" href="../blog/page2.html">Lainnya →</a></div>
+___________________________________
+
+<IfModule mod_rewrite.c>
+RewriteEngine on
+
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+RewriteCond %{QUERY_STRING} ^(.*)i=[^&]+&?(.*)$ [NC]
+RewriteRule ^(.*)$ /$1?%1%2 [R=301,L]
+</IfModule>
