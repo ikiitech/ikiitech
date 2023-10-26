@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Selamat datang di website saya">
     <meta name="author" content="Muhamad Rifki Sumarna">
@@ -13,7 +13,96 @@
 	<link rel="stylesheet" href="assets/css/meyawo.css">
 <style type="text/css">
     #cssload {background:url(assets/imgs/load.svg) no-repeat center;background-color:rgb(255, 255, 255);width:100%;height:100%;position:fixed;left:0;top:0;z-index:1000;}
+.link{
+	padding: 15px 30px;
+	margin-top: 50px;
+    margin-bottom: 1px;
+    margin-left: 20px;
+    margin-right: 20px;
+	display: inline-block;
+	color: white;
+	background: blue;
+  text-decoration: none;
+  font-size: medium;
+  border-radius: 50px;
+}
+
+.link:hover{
+	text-decoration: none;
+	color: yellow;
+}
+
+@-webkit-keyframes wobble-to-bottom-right-on-hover {
+  16.65% {
+    -webkit-transform: translate(8px, 8px);
+    transform: translate(8px, 8px);
+  }
+  33.3% {
+    -webkit-transform: translate(-6px, -6px);
+    transform: translate(-6px, -6px);
+  }
+  49.95% {
+    -webkit-transform: translate(4px, 4px);
+    transform: translate(4px, 4px);
+  }
+  66.6% {
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px);
+  }
+  83.25% {
+    -webkit-transform: translate(1px, 1px);
+    transform: translate(1px, 1px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
+@keyframes wobble-to-bottom-right-on-hover {
+  16.65% {
+    -webkit-transform: translate(8px, 8px);
+    transform: translate(8px, 8px);
+  }
+  33.3% {
+    -webkit-transform: translate(-6px, -6px);
+    transform: translate(-6px, -6px);
+  }
+  49.95% {
+    -webkit-transform: translate(4px, 4px);
+    transform: translate(4px, 4px);
+  }
+  66.6% {
+    -webkit-transform: translate(-2px, -2px);
+    transform: translate(-2px, -2px);
+  }
+  83.25% {
+    -webkit-transform: translate(1px, 1px);
+    transform: translate(1px, 1px);
+  }
+  100% {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
+.wobble-to-bottom-right-on-hover {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+.wobble-to-bottom-right-on-hover:hover, .wobble-to-bottom-right-on-hover:focus, .wobble-to-bottom-right-on-hover:active {
+  -webkit-animation-name: wobble-to-bottom-right-on-hover;
+  animation-name: wobble-to-bottom-right-on-hover;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
 </style>
+<script async src="https://static.addtoany.com/menu/page.js"></script>
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
     <div id='cssload'></div>
@@ -32,13 +121,16 @@
             <!-- about wrapper -->
             <div class="about">
                 <div class="about-img-holder">
-                    <img src="assets/imgs/rifki.png" class="about-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page">
+                    <img src="assets/imgs/rifki.png" class="about-img" alt="FOTO-WAJAH">
                 </div>
                 <div class="about-caption">
                     <h2 class="section-title mb-3">Tentang saya</h2>
                     <p align="justify">
                         Halo, perkenalkan nama saya Muhamad Rifki Sumarna, sering dipanggil iki. Saya lahir di Subang pada tanggal 13 Desember 2005. Anak dari Bapak & Mamah yang hebat, sangat kuat nan sabar dalam hal mendidik saya, beliau adalah kedua orang tua saya, Nana Sumarna & Titin Suarsih.<br/><br/>Anak pertama dari dua bersaudara, adik saya perempuan bernama Tina Nurhasanah. Alamat saya di kampung palasari, tanjungwangi, kec. cijambe, kab. subang, jawa barat. Sekian perkenalan diri dari saya.          
-                    </p>
+                    </p><main><div class="container py-5 text-center">
+                     <a href="https://www.rifkiblog.my.id" target="_blank" class="link wobble-to-bottom-right-on-hover">Blog</i></a>
+                      <a href="https://www.youtube.com/@muhammadrifkiez" target="_blank" class="link wobble-to-bottom-right-on-hover">YouTube</a>
+                    </div></main>
                 </div>              
             </div><!-- end of about wrapper -->
         </div><!-- end of container -->
@@ -97,7 +189,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <a href="assets/imgs/kegiatan1.jpg" class="portfolio-card">
-                        <img src="assets/imgs/kegiatan1.jpg" class="portfolio-card-img" alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, meyawo Landing page">    
+                        <img src="assets/imgs/kegiatan1.jpg" class="portfolio-card-img" alt="FOTO-KEGIATAN1">    
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
                                 <h4>Mengedit template website untuk di upload ke nginx web server di sistem operasi Windows 10.</h4>
@@ -107,7 +199,7 @@
                 </div>
                 <div class="col-md-4">
                     <a href="assets/imgs/kegiatan2.jpg" class="portfolio-card">
-                        <img class="portfolio-card-img" src="assets/imgs/kegiatan2.jpg" class="img-responsive rounded">
+                        <img class="portfolio-card-img" src="assets/imgs/kegiatan2.jpg" class="img-responsive rounded" alt="FOTO-KEGIATAN2">
                         <span class="portfolio-card-overlay">
                             <span class="portfolio-card-caption">
                                 <h4>Belajar bareng membuat web server & dns server di sistem operasi Debian 10 lewat VirtualBox.</h4>
@@ -118,66 +210,6 @@
             </div><!-- end of row -->
         </div><!-- end of container -->
     </section> <!-- end of portfolio section -->
-
-    <!-- blog section -->
-    <section class="section" id="blog">
-        <!-- container -->
-        <div class="container text-center">
-            <h6 class="section-title mb-6">Blog</h6>
-            <!-- blog-wrapper -->
-            <div class="blog-card">
-                <div class="blog-card-header">
-                    <img src="assets/blog/vbox.jpg" class="blog-card-img" alt="VBOX-NETWORK-ADAPTER">
-                </div>
-                <div class="blog-card-body">
-                    <h5 align="justify" class="blog-card-title">Cara membuat 2 adapter jaringan di Debian virtualbox</h6>
-
-                    <p class="blog-card-caption">
-                        <strong>M. Rifki Sumarna | 06 Oktober 2023</strong>
-                    </p>
-                    <p align="justify">Kali ini saya akan membagikan tutorial, Cara membuat 2 adapter jaringan di Debian virtualbox. Simak tutorialnya berikut ini...</p>
-
-                    <a href="assets/blog/2adapter-jaringan.html" class="blog-card-link"><strong>Baca selengkapnya </strong><i class="ti-angle-double-right"></i></a>
-                </div>
-            </div><!-- end of blog wrapper -->
-
-            <!-- blog-wrapper -->
-            <div class="blog-card">
-                <div class="blog-card-header">
-                    <img src="assets/blog/debiannginx.png" class="blog-card-img" alt="NGINX-DEBIAN">
-                </div>
-                <div class="blog-card-body">
-                    <h5 align="justify" class="blog-card-title">Tutorial membuat web server menggunakan Nginx di Debian</h6>
-
-                    <p class="blog-card-caption">
-                        <strong>M. Rifki Sumarna | 23 September 2023</strong>
-                    </p>
-                    <p align="justify">Kali ini saya akan membagikan tutorial cara membuat web server di Debian menggunakan nginx. Simak tutorialnya berikut ini...</p>
-
-                    <a href="assets/blog/nginx-debian10.html" class="blog-card-link"><strong>Baca selengkapnya </strong><i class="ti-angle-double-right"></i></a>
-                </div>
-            </div><!-- end of blog wrapper -->
-
-            <!-- blog-wrapper -->
-            <div class="blog-card">
-                <div class="blog-card-header">
-                    <img src="assets/blog/nginxwindows.jpg" class="blog-card-img" alt="NGINX-WINDOWS">
-                </div>
-                <div class="blog-card-body">
-                    <h5 align="justify" class="blog-card-title">Tutorial membuat web server menggunakan Nginx di Windows</h6>
-
-                    <p class="blog-card-caption">
-                        <strong>M. Rifki Sumarna | 17 September 2023</strong>
-                    </p>
-                    
-                    <p align="justify">Pada kesempatan kali ini saya akan membagikan tutorial membuat web server di Windows menggunakan Nginx. Simak tutorialnya berikut ini...</p>
-
-                    <a href="assets/blog/nginx-windows.html" class="blog-card-link"><strong>Baca selengkapnya </strong><i class="ti-angle-double-right"></i></a>
-                </div>
-            </div><!-- end of blog wrapper -->
-
-        </div><!-- end of container -->
-    </section><!-- end of blog section -->
 
     <!-- contact section -->
     <section class="section" id="contact">
@@ -207,13 +239,10 @@
     <div class="container">
         <footer class="footer">       
             <p class="mb-0">&copy; 2023 RIFKIWEB</p>
-            <div class="social-links text-right m-auto ml-sm-auto">
-                <a href="https://facebook.com/ikiiii.rifki" target="_blank" class="link"><i class="ti-facebook"></i></a>
-                <a href="https://instagram.com/_.ikiiii" target="_blank" class="link"><i class="ti-instagram"></i></a>
-                <a href="https://youtube.com/@muhammadrifkiez" target="_blank" class="link"><i class="ti-youtube"></i></a>
-                <a href="https://github.com/ikiitech" target="_blank" class="link"><i class="ti-github"></i></a>
-                <a href="https://www.rifkiblog.my.id" target="_blank" class="link"><i class="ti-new-window"></i></a>
-            </div>
+	    <div class="a2a_kit a2a_kit_size_32 a2a_default_style a2a_follow">
+            	<a class="a2a_button_facebook" href="https://www.facebook.com/ikiiii.rifki"></a>
+		<a class="a2a_button_instagram" href="https://www.instagram.com/_.ikiiii"></a>
+		<a class="a2a_button_github" href="https://github.com/ikiitech"></a></div>
         </footer>
     </div> <!-- end of page footer -->
 	
