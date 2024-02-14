@@ -20,12 +20,8 @@
 <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet"/>
 <link href="assets/css/style.css" rel="stylesheet"/>
 
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js' type='text/javascript'></script>
 <script data-goatcounter="https://monitor.rifkiweb.my.id/count" async src="//gc.zgo.at/count.js"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6349124961267919" crossorigin="anonymous"></script>
-<div id='loading_screen'>
-  <img class='uk-position-center' src='https://arsip.rifkiweb.my.id/r.gif' style='width:100%;'/>
-</div>
 </head>
 <body>
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
@@ -163,26 +159,5 @@
 <script src="assets/vendor/typed.js/typed.umd.js"></script>
 <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
 <script src="assets/js/main.js"></script>
-<script>
-(function() {
-  if (window.addEventListener) {
-    window.addEventListener("load", nascondi_loading_screen, false);
-  } else {
-    window.attachEvent("onload", nascondi_loading_screen);
-  }
-})();
-
-function mostra_loading_screen() {
-  document.getElementById("loading_screen").style.display = 'block';
-}
-
-function nascondi_loading_screen() {
-  setTimeout(function() {
-    document.getElementById("loading_screen").style.display = 'none';
-  }, 3000);
-}
-
-mostra_loading_screen();
-</script>
 </body>
 </html>

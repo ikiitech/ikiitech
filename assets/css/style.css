@@ -830,19 +830,3 @@ label.fcf-label {
 input[type="submit"].fcf-btn-block, input[type="reset"].fcf-btn-block, input[type="button"].fcf-btn-block {
   width: 100%;
 }
-
-#loading_screen {
-  z-index: 1000;
-  display: none;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  height: 100%;
-  width: 100%;
-  background-color: white;
-  color: white;
-  text-align: center;
-  opacity: 0.5;
-  opacity: 1;
-  filter: alpha(opacity=50);
-}
