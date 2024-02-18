@@ -1,5 +1,10 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
 User-agent: *
-Allow: /
-Disallow: /search
+Disallow: /search*
+Disallow: /20*
+Disallow: /feeds*
+Allow: /*.html
 
 Sitemap: https://www.rifkiweb.my.id/sitemap.xml
