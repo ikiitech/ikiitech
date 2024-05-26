@@ -1,3 +1,11 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 **Assalamualaikum**👋
 
 **My name is Muhamad Rifki Sumarna**<br/>
@@ -6,6 +14,9 @@
 ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 </br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikiitech&theme=light&background=ffffff)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ikiitech&show_icons=true&locale=en"/></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikiitech&show_icons=true&locale=en&layout=compact"/></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikiitech&show_icons=true&locale=en&layout=compact"/></br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikiitech&theme=light&background=ffffff)](https://git.io/streak-stats)
+</div>
