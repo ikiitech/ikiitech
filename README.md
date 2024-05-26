@@ -7,6 +7,6 @@
   <img align="center" alt="Rifki's Blog" width="124px" src="https://img.shields.io/badge/Blogger-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white" />
 </a>
 
-### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikiitech&theme=light&background=ffffff)](https://git.io/streak-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikiitech&show_icons=true&locale=en&layout=compact"/></p>
