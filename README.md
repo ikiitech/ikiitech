@@ -1,12 +1,15 @@
-**Assalamualaikum**👋
+<div align="center">
 
-**My name is Muhamad Rifki Sumarna**<br/>
-***keep your health and keep your spirits up***
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-<a href="https://www.rifkiblog.my.id">
-  <img align="center" alt="Rifki's Blog" width="124px" src="https://img.shields.io/badge/Blogger-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white" />
-</a>
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+</br>
 
-### :fire: My Stats :
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ikiitech&show_icons=true&locale=en&layout=compact"/></br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikiitech&theme=light&background=ffffff)](https://git.io/streak-stats)
+</div>
