@@ -1,5 +1,5 @@
 <div align="center">
 
-[![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ikiitech&custom_title=My%20GitHub%20activity%20graph&hide_title=true&hide_border=true&theme=github-compact)]()
+[![GitHub Streak](https://streak-stats.demolab.com?user=ikiitech&theme=transparent&hide_border=true&border_radius=50&locale=id&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 </div>
