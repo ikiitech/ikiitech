@@ -1,1 +1,1 @@
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ikiitech&theme=transparent&hide_border=true&border_radius=50&locale=id" alt="GitHub Streak" /></a></div>
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)</div>
